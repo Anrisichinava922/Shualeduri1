@@ -90,6 +90,7 @@ p{
 }
 .keyboard{
     margin-top: 60px;
+    margin-left: 24px;
 }
 .keb2{
     display: none;
@@ -106,7 +107,11 @@ p{
 .imgbox1{
     display: flex;
     flex-direction: row;
+    column-gap: 20px;
     margin-left: 15px;
+}
+.keyboard2{
+    margin-left: -40px;
 }
 .keyboard3{
     width: 220px;
