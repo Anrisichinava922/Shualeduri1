@@ -1,7 +1,7 @@
 @media (width > 768px){
     header{
         column-gap: 474px;
-        padding-left: 39px;
+        padding-left: 25px;
     }
     .but1{
         width: 175px;
@@ -97,8 +97,11 @@
 @media (width >1440px){
     header{
         padding-top: 70px;
-        padding-left: 180px;
+        padding-left: 200px;
+        padding-right: 165px;
         column-gap: 900px;
+    }
+    .bu1{
     }
     .container{
         background-image: url(./assets/desktopback1.svg) , url(./assets/desktopback2.svg);

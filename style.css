@@ -12,6 +12,8 @@ body{
 header{
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
     column-gap: 136px;
     padding: 27px 24px 0 24px;
 }
@@ -112,6 +114,8 @@ p{
 }
 .keyboard2{
     margin-left: -40px;
+    border-radius: 0 20px 20px 0;
+    background: #F16718;
 }
 .keyboard3{
     width: 220px;
